@@ -9,6 +9,10 @@ export default function Home() {
 </button>
 
 
+<button className="bg-blue-500 p-6 text-white text-lg rounded-lg">
+  I am a slightly larger button
+</button>
+
      </div>
      )
 }
